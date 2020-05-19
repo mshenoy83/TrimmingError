@@ -5,7 +5,6 @@
         <AWSProjectType>Lambda</AWSProjectType>
     </PropertyGroup>
     <ItemGroup>
-        <TrimmerRootAssembly Include="System.Runtime.Loader" />
         <TrimmerRootAssembly Include="System.Threading.Tasks.dll" />
     </ItemGroup>
     <ItemGroup>
